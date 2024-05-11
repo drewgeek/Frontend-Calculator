@@ -1,5 +1,6 @@
 .calculator {
-    width: 250px;
+    background-color: blue;
+    width: 200px;
     margin: 0 auto;
     text-align: center;
 }
